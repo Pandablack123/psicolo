@@ -1,0 +1,2 @@
+# psicolo
+Prototipo inicila
